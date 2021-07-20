@@ -22,7 +22,7 @@ Next steps:
 Futute steps:
 * Dedicated server.
 
-
+ASSETS: The 3D or 2D models used in this prototype project were downloaded from https://sketchfab.com. All models can be used with purpose commercial respecting the licence CC (https://creativecommons.org/licenses/by/4.0/).
 
 Legal aspects:
 ps: The item shop icons were extracted from League of Legends fandom web site (https://leagueoflegends.fandom.com/pt-br/wiki/Item) and used only for personal purpose.
