@@ -7,8 +7,13 @@ The project shown on video bellow is a prototype. The character is inspired on A
 https://user-images.githubusercontent.com/85255111/126207738-e7c33cb4-c899-4fa3-aec9-9e21a7e11ef7.mp4
 
 
+*** Minion System
 
 
+https://user-images.githubusercontent.com/85255111/126659149-86161f35-0fc9-493f-a98b-29124df6aaee.mp4
+
+
+Additional Information
 
 A lot of improvement and correction will be done in a future, someones like:
 1) Lag compensation
